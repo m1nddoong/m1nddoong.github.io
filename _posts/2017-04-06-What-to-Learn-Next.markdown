@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "안녕하세요 반갑습니다"
+title: ""
 date: 2024-02-16 14:12:20 +0900
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Kotlin_logo.svg.png # Add image post (optional)
